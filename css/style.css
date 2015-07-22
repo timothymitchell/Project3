@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+h1 {
+	color: red;
+}
+
+#score {
+	font-size: 22px;
+	font-weight: bold;
+	color: #16a085;
+}
